@@ -1,46 +1,31 @@
-📚 Learning Rust: The Rust Programming Language
+#📚 Learning Rust: The Rust Programming Language
 
 This repository serves as a personal learning journal and practical workspace for going through "The Rust Programming Language", often affectionately known as "The Book".
 
 My goal with this repository is to systematically work through each chapter, understand core Rust concepts, and implement the exercises and examples provided in the book. It's a place to track my progress, experiment with code, and solidify my understanding of Rust.
-📖 About The Book
+
+##📖 About The Book
 
 "The Rust Programming Language" is the official guide to Rust, covering everything from fundamental concepts like ownership and borrowing to advanced topics like concurrency and macros. It's an invaluable resource for anyone looking to master Rust.
 
 You can find the online version of the book here: https://doc.rust-lang.org/stable/book/
-📁 Repository Structure
 
-The code and notes within this repository are organized by chapter, mirroring the structure of "The Book". Each chapter's content will typically reside in its own directory.
-
-.
-├── hello_world/
-│   └── main.rs
-├── hello_cargo/
-│   ├── src/
-│   │   └── main.rs
-│   └── Cargo.toml
-├── guessing_game/
-│   ├── src/
-│   │   ├── main.rs
-│   └── Cargo.toml
-└── ... (more chapters as I progress)
-
-▶️ How to Run Examples
+##▶️ How to Run Examples
 
 To run any of the examples or exercises in this repository, you'll need Rust and Cargo installed. If you don't have them, follow the instructions in Chapter 1 of "The Book" or visit rust-lang.org.
 
 Navigate into the specific project directory you want to run (e.g., guessing_game/) and use Cargo:
 
-# Navigate to the project directory
+## Navigate to the project directory
 cd guessing_game/
 
-# Build the project
+## Build the project
 cargo build
 
-# Run the project
+## Run the project
 cargo run
 
 
-🤝 Contributing (Self-Learning Focus)
+##🤝 Contributing (Self-Learning Focus)
 
 This repository is primarily for my personal learning. While I appreciate any insights or corrections, it's not intended for external contributions in the traditional sense. Feel free to fork it and use it for your own Rust learning journey!
