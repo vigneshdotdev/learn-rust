@@ -26,6 +26,6 @@ cargo build
 cargo run
 
 
-##🤝 Contributing (Self-Learning Focus)
+## 🤝 Contributing (Self-Learning Focus)
 
-This repository is primarily for my personal learning. While I appreciate any insights or corrections, it's not intended for external contributions in the traditional sense. Feel free to fork it and use it for your own Rust learning journey!
+This repository is primarily for my personal learning. While I appreciate any insights or corrections, it's not intended for external contributions in the traditional sense. Feel free to fork it and use it for your own Rust learning journey!!
