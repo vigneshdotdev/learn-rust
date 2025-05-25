@@ -1,16 +1,16 @@
-#📚 Learning Rust: The Rust Programming Language
+# 📚 Learning Rust: The Rust Programming Language
 
 This repository serves as a personal learning journal and practical workspace for going through "The Rust Programming Language", often affectionately known as "The Book".
 
 My goal with this repository is to systematically work through each chapter, understand core Rust concepts, and implement the exercises and examples provided in the book. It's a place to track my progress, experiment with code, and solidify my understanding of Rust.
 
-##📖 About The Book
+## 📖 About The Book
 
 "The Rust Programming Language" is the official guide to Rust, covering everything from fundamental concepts like ownership and borrowing to advanced topics like concurrency and macros. It's an invaluable resource for anyone looking to master Rust.
 
 You can find the online version of the book here: https://doc.rust-lang.org/stable/book/
 
-##▶️ How to Run Examples
+## ▶️ How to Run Examples
 
 To run any of the examples or exercises in this repository, you'll need Rust and Cargo installed. If you don't have them, follow the instructions in Chapter 1 of "The Book" or visit rust-lang.org.
 
