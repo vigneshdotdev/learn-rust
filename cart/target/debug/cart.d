@@ -1,1 +1,0 @@
-/home/vignesh/Learning/learn-rust/cart/target/debug/cart: /home/vignesh/Learning/learn-rust/cart/src/main.rs /home/vignesh/Learning/learn-rust/cart/src/sales/cart.rs /home/vignesh/Learning/learn-rust/cart/src/sales.rs
